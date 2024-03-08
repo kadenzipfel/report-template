@@ -1,0 +1,6 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+\PYG{k}{contract}\PYG{+w}{ }\PYG{n+ni}{Test}\PYG{+w}{ }\PYG{p}{\PYGZob{}}
+\PYG{+w}{    }\PYG{p}{...}
+\PYG{+w}{    }\PYG{c+c1}{// Code blocks must be indented with 4 spaces.}
+\PYG{p}{\PYGZcb{}}
+\end{Verbatim}

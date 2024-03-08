@@ -1,0 +1,12 @@
+\babel@toc {english}{}\relax 
+\contentsline {section}{\numberline {1}Executive Summary}{1}{section.1}%
+\contentsline {section}{\numberline {2}Introduction}{3}{section.2}%
+\contentsline {section}{\numberline {3}Findings}{3}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Critical Risk}{3}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}High Risk}{3}{subsection.3.2}%
+\contentsline {subsubsection}{\numberline {3.2.1}Issue title (Only first word should be capitalized; titles should never end with punctuation)}{3}{subsubsection.3.2.1}%
+\contentsline {subsection}{\numberline {3.3}Medium Risk}{4}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}Low Risk}{4}{subsection.3.4}%
+\contentsline {subsection}{\numberline {3.5}Gas Optimizations}{4}{subsection.3.5}%
+\contentsline {section}{\numberline {4}Additional Comments}{4}{section.4}%
+\contentsline {section}{\numberline {5}Appendix}{4}{section.5}%
