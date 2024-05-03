@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.3.5)  3 MAY 2024 14:14
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.3.5)  3 MAY 2024 14:19
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -8,8 +8,8 @@ LaTeX2e <2022-11-01> patch level 1
 L3 programming layer <2023-02-22>
 (/usr/local/texlive/2023/texmf-dist/tex/latex/extsizes/extarticle.cls
 Document Class: extarticle 1996/10/08 v1.0 Non Standard LaTeX document class
-(/usr/local/texlive/2023/texmf-dist/tex/latex/extsizes/size14.clo
-File: size14.clo 1999/11/11 v1.4a NON-Standard LaTeX file (size option)
+(/usr/local/texlive/2023/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2022/07/02 v1.4n Standard LaTeX file (size option)
 )
 (/usr/local/texlive/2023/texmf-dist/tex/latex/base/exscale.sty
 Package: exscale 2018/09/24 v2.1i Standard LaTeX package exscale
@@ -578,15 +578,15 @@ LaTeX Font Info:    ... okay on input line 49.
 * \textheight=681.15898pt
 * \oddsidemargin=-15.36449pt
 * \evensidemargin=-15.36449pt
-* \topmargin=-54.36449pt
-* \headheight=14.0pt
+* \topmargin=-52.36449pt
+* \headheight=12.0pt
 * \headsep=25.0pt
-* \topskip=14.0pt
+* \topskip=12.0pt
 * \footskip=30.0pt
-* \marginparwidth=24.0pt
+* \marginparwidth=44.0pt
 * \marginparsep=10.0pt
 * \columnsep=10.0pt
-* \skip\footins=12.0pt plus 4.0pt minus 2.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
 * \hoffset=0.0pt
 * \voffset=0.0pt
 * \mag=1000
@@ -648,9 +648,9 @@ LaTeX Font Warning: Font shape `T1/cmtt/b/scit' undefined
 LaTeX Font Warning: Font shape `T1/cmtt/b/sc' undefined
 (Font)              using `T1/cmtt/b/n' instead on input line 49.
 
-LaTeX Font Info:    Font shape `T1/cmtt/bx/n' in size <14.4> not available
+LaTeX Font Info:    Font shape `T1/cmtt/bx/n' in size <12> not available
 (Font)              Font shape `T1/cmtt/m/n' tried instead on input line 49.
-LaTeX Font Info:    Font shape `T1/cmtt/bx/it' in size <14.4> not available
+LaTeX Font Info:    Font shape `T1/cmtt/bx/it' in size <12> not available
 (Font)              Font shape `T1/cmtt/m/it' tried instead on input line 49.
 
 LaTeX Font Warning: Font shape `T1/cmtt/bx/sl' undefined
@@ -798,7 +798,7 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
  (./_minted-main/default.pygstyle)
 (./_minted-main/C8FBBBF05436752F6BEF4EE280867EA1428F67E20B1EF4619AC5610890C528D
 A.pygtex
-LaTeX Font Info:    Font shape `T1/cmtt/bx/n' in size <12> not available
+LaTeX Font Info:    Font shape `T1/cmtt/bx/n' in size <10.95> not available
 (Font)              Font shape `T1/cmtt/m/n' tried instead on input line 2.
 )
 \openout3 = `main.pyg'.
@@ -818,22 +818,22 @@ runsystem(rm main.pyg)...executed.
 
  ) 
 Here is how much of TeX's memory you used:
- 15036 strings out of 476025
- 258591 string characters out of 5790018
+ 15059 strings out of 476025
+ 258727 string characters out of 5790018
  1860388 words of memory out of 5000000
- 35188 multiletter control sequences out of 15000+600000
- 539447 words of font info for 65 fonts, out of 8000000 for 9000
+ 35204 multiletter control sequences out of 15000+600000
+ 541491 words of font info for 72 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  77i,6n,81p,626b,557s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfit1200.pfb>
-</usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sftt1200.pfb></
-usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sftt1440.pfb></us
+</usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfit1095.pfb>
+</usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sftt1095.pfb></
+usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sftt1200.pfb></us
 r/local/texlive/2023/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local
 /texlive/2023/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb>
-Output written on main.pdf (5 pages, 98576 bytes).
+Output written on main.pdf (5 pages, 106012 bytes).
 PDF statistics:
- 131 PDF objects out of 1000 (max. 8388607)
- 112 compressed objects within 2 object streams
+ 133 PDF objects out of 1000 (max. 8388607)
+ 114 compressed objects within 2 object streams
  24 named destinations out of 1000 (max. 500000)
  89 words of extra memory for PDF output out of 10000 (max. 10000000)
 
