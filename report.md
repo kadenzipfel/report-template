@@ -9,7 +9,9 @@ The focus of the security review was on the following:
 2. Specific security concern 2.
 3. Specific security concern 3.
 
-*Disclaimer:* This security review does not guarantee against a hack. It is a snapshot in time of brink according to the specific commit by a three person team. Any modifications to the code will require a new security review.
+**Disclaimer:** This review does not make any warranties or guarantees regarding the discovery
+of all vulnerabilities or issues within the audited smart contracts. The auditor shall not be liable
+for any damages, claims, or losses incurred from the use of the audited smart contracts.
 
 # Findings 
 
