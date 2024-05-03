@@ -47,6 +47,8 @@ contract Test {
 
 ## Low Risk
 
+## Informational
+
 ## Gas Optimizations
 
 
